@@ -1,4 +1,4 @@
-# BDL Resources 
+# BDL Resources/materials 
 
 1. [vs-code cheatsheet](https://www.makeuseof.com/tag/visual-studio-code-keyboard-shortcuts-cheat-sheet/)
 
@@ -32,8 +32,58 @@
 
 1. [about forks](https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/)
 
-Extensions for VS-Code:
-- Emoji Snippets
-- Emmet 
-- Auto Rename Tag
-- Bracket Pair Colorizer
+1. [Emmet cheat-sheet](https://docs.emmet.io/cheat-sheet/)
+
+1. [meta-tags-html](https://www.copahost.com/blog/meta-tags-html/)
+
+1. [meta-tags.md](https://gist.github.com/lancejpollard/1978404)
+
+1. [SEO - Meta Tags](https://moz.com/blog/the-ultimate-guide-to-seo-meta-tags#:~:text=Meta%20tags%20provide%20information%20about,search%20engines%20and%20web%20crawlers.&text=Example%20of%20meta%20tags%20include,%3E%20and%20elements)
+
+1. [html attributes](https://www.w3schools.com/html/html_attributes.asp)
+
+1. [html attributes ](https://www.w3schools.com/tags/ref_attributes.asp)
+
+1. [The_head_metadata](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+
+1. [Interneting Is Hard
+course](https://www.internetingishard.com/html-and-css/)
+
+1. [the-c-in-css-the-cascade](https://css-tricks.com/the-c-in-css-the-cascade/)
+
+1. [A Look Back at the History of CSS](https://css-tricks.com/look-back-history-css/)
+
+1. [Class_and_ID_Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)
+
+1. [pre tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
+
+1. [tooltips](https://www.appcues.com/blog/tooltips)
+
+1. [power-of-minimalism-in-ui](https://blog.tubikstudio.com/lean-and-mean-power-of-minimalism-in-ui-design/)
+
+1. [Separation of content and presentation](https://en.wikipedia.org/wiki/Separation_of_content_and_presentation
+)
+1. [hipster ipsum](https://hipsum.co/)
+
+1. [anchor element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+
+1. [colorhunt](https://colorhunt.co/)
+
+1. [color-palette-generator](https://www.canva.com/colors/color-palette-generator/)
+
+1. [try css_cursor](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_cursor)
+
+1. [validate your web to find errors](https://validator.w3.org/)
+1. [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
+1. [color css tricks](https://css-tricks.com/almanac/properties/c/color/)
+
+1. [mdn css units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+
+1. [css units explained](https://www.digitalocean.com/community/tutorials/css-css-units-explained)
+
+1. [CSS Units Best Practices](https://gist.github.com/basham/2175a16ab7c60ce8e001)
+
+1. [DOM explanation](https://mrvirk.com/html-dom-diagram-and-explanation.html)
+
+1. [px to em converter](https://nekocalc.com/px-to-em-converter)
