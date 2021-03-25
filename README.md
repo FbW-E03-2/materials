@@ -120,8 +120,10 @@ course](https://www.internetingishard.com/html-and-css/)
 
 1. [Cascade and inheritance mdn](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
 
+1. [box sizing better/best practice](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+
+<!-- updated 25/3 morning
 1. []()
 1. []()
 1. []()
-1. []()
-1. []()
+1. []() -->
