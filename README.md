@@ -91,3 +91,37 @@ course](https://www.internetingishard.com/html-and-css/)
 1. [DOM explanation](https://mrvirk.com/html-dom-diagram-and-explanation.html)
 
 1. [px to em converter](https://nekocalc.com/px-to-em-converter)
+
+1. [object fit mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+
+1. [object fit css-tricks](https://css-tricks.com/almanac/properties/o/object-fit/)
+
+1. [image attributes](https://html.com/attributes/img-src/)
+
+1. [free images freepik](https://www.freepik.com/)
+
+1. [free images pexel](https://www.pexels.com/)
+
+1. [free images unsplash](https://unsplash.com/)
+
+1. [GIMP filters cheat-sheet](https://alvinalexander.com/design/gimp-catalog-filters-effects-examples-cheat-sheet/)
+
+1. [create floating logo with GIMP](https://www.gimp.org/tutorials/Floating_Logo/)
+
+1. [How to Create Modern Nike Sport Poster Design - GIMP](https://zakeydesign.com/paul-george-poster-design/)
+
+1. [All 39 GIMP Tools Explained - video](https://www.youtube.com/watch?v=_z9cFpwak9c)
+
+1. [add/remove GIMP tools - video ](https://www.youtube.com/watch?v=QfO-8Nou3Qk)
+
+1. [picsum photos](https://picsum.photos/)
+
+1. [how to section html](https://css-tricks.com/how-to-section-your-html/)
+
+1. [Cascade and inheritance mdn](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
