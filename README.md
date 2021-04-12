@@ -122,8 +122,42 @@ course](https://www.internetingishard.com/html-and-css/)
 
 1. [box sizing better/best practice](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 
-<!-- updated 25/3 morning
-1. []()
-1. []()
-1. []()
-1. []() -->
+1. [gradients](https://css-tricks.com/css3-gradients/)
+
+1. [mycolor gradients](https://mycolor.space/gradient3?ori=to+left+bottom&hex=%23B36E96&hex2=%2392A6CD&hex3=%23FFF406&submit=submit)
+
+1. [CSS Gradient — Generator, Maker, and Background](https://cssgradient.io/)
+
+1. [positioining](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
+
+1. [css position](https://www.freecodecamp.org/news/learn-the-basics-the-css-position-property/)
+
+1. [background image](https://www.freecodecamp.org/news/how-to-add-an-image-url-to-your-div/)
+
+1. [box model](https://every-layout.dev/rudiments/boxes/)
+
+1. [ux-and-ui-design](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
+
+1. [was-sind-dark-patterns](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-sind-dark-patterns/)
+
+1. [Principles of UI Design](https://en.wikipedia.org/wiki/Principles_of_user_interface_design)
+
+1. [typography](https://www.typography.com/)
+
+1. [The Art of Desing - netflix](https://www.netflix.com/title/80057883)
+
+1. [desing inspiration 1](https://onepagelove.com/)
+
+1. [desing inspiration 2](https://tympanus.net/codrops/)
+
+1. [desing inspiration 3](https://dribbble.com/)
+
+1. [newspaper-fonts](https://blog.flipsnack.com/newspaper-fonts/)
+
+1. [Pseudo classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+
+1. [Social Media Buttons with Cool Hover Animation video](https://www.youtube.com/watch?v=yU3giDe-N6c)
+
+1. [css-gui-icons](http://nicolasgallagher.com/pure-css-gui-icons/)
+
+<!-- updated April 12 before class start -->
