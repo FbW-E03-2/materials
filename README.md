@@ -285,3 +285,43 @@ course](https://www.internetingishard.com/html-and-css/)
 1. [Grid examples](https://gridexamples.com/)
 
 1. [supported modern css pseudo class](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
+
+1. [css transitions mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+
+1. [Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)
+
+1. [css pseudo classes and pseudo elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+
+1. [before and after selectors](https://www.freecodecamp.org/news/css-pseudo-elements-before-and-after-selectors-explained/)
+
+1. [clipping with clip path](https://www.digitalocean.com/community/tutorials/css-clipping-with-clip-path)
+
+1. [Animating with Clip-Path](https://css-tricks.com/animating-with-clip-path/)
+
+1. [clip-path maker](https://bennettfeely.com/clippy/)
+
+1. [transitions explained](https://www.freecodecamp.org/news/css-transitions-explained-d67ab9a02049/)
+
+1. [transitions and transforms for Beginners](https://thoughtbot.com/blog/transitions-and-transforms)
+
+1. [Ease comparison in animations](https://codepen.io/northernlights3/pen/yLebRKZ)
+
+1. [Animista](https://animista.net/)
+
+1. [cubic-bezier Preview & compare](https://cubic-bezier.com/#.17,.67,.83,.67)
+
+1. [Keyframe Animation Syntax](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
+
+1. [Create basic or complex CSS @keyframe animations](https://keyframes.app/)
+
+1. [Lightweight, scalable animations ](https://lottiefiles.com/getting-started)
+
+1. [standards for developing consistent, flexible and sustainable HTML and CSS](https://codeguide.co/)
+
+1. []()
+
+1. []()
+
+1. []()
+
+1. []()
