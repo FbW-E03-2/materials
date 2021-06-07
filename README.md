@@ -231,3 +231,57 @@ course](https://www.internetingishard.com/html-and-css/)
 1. [media queries mdn](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 
 1. [importance of responsive web](https://www.dotcominfoway.com/blog/importance-of-responsive-web-design/#gref)
+
+1. [responsive web design basics](https://web.dev/responsive-web-design-basics/)
+
+1. [Responsive Web Design intro](https://www.toptal.com/responsive-web/introduction-to-responsive-web-design-pseudo-elements-media-queries)
+
+1. [Normalize CSS](https://necolas.github.io/normalize.css/)
+
+1. [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+
+1. [guide to flexbox css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+1. [flexbox concepts mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+
+1. [video - Figma for beginners](https://www.youtube.com/watch?v=wvFd-z7jSaA)
+
+1. [create a wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+
+1. [flex cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+
+1. [grid layout history](http://grid-layout.com/history.html)
+
+1. [flexbox alignment](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)
+
+1. [flexbox playground ](https://codepen.io/enxaneta/full/adLPwv)
+
+1. [flexbox why are there no "justify-items" and "justify-self"](https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties)
+
+1. [Flex grow, shrink, basis](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/)
+
+1. [The difference between width and flex-basis in Flexbox](https://www.freecodecamp.org/news/flexboxs-flex-basis-explained-83d1a01413b7/)
+
+1. [when to use flex or grid](https://blog.logrocket.com/flexbox-vs-css-grid/)
+
+1. [box shadow generator](https://cssgenerator.org/box-shadow-css-generator.html)
+
+1. [CSS selectors game - css diner](https://flukeout.github.io/)
+
+1. [Grid basic concepts - mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+
+1. [css grid inspector - mdn](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
+
+1. [Practice Grid with FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid)
+
+1. [Learn css Grid](https://learncssgrid.com/#grid-container)
+
+1. [grid cheat sheet](https://grid.malven.co/)
+
+1. [grid by example](https://gridbyexample.com/examples/)
+
+1. [css grid - interactive!](https://www.euismod.dev/#/)
+
+1. [Grid examples](https://gridexamples.com/)
+
+1. [supported modern css pseudo class](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
