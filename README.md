@@ -8,6 +8,8 @@
 
 1. [linux-command-line cheat-sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 
+1. [create-alias-in-linux](https://www.tecmint.com/create-alias-in-linux/)
+
 1. [npm cheatsheet](https://devhints.io/npm)
 
 1. [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI)
@@ -33,6 +35,8 @@
 1. [fork-a-repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
 1. [about forks](https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/)
+
+
 
 ## UIB 
 
@@ -160,4 +164,70 @@ course](https://www.internetingishard.com/html-and-css/)
 
 1. [css-gui-icons](http://nicolasgallagher.com/pure-css-gui-icons/)
 
-<!-- updated April 12 before class start -->
+1. [svg glass shape](https://s3.us-east-2.amazonaws.com/ui.glass/shape.svg)
+
+1. [webkit backdrop-filter ](https://webkit.org/demos/backdrop-filter/)
+
+1. [backdrop-filter mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter)
+
+1. [adobe color wheel](https://color.adobe.com/create/color-wheel)
+
+1. [cool tool - material design](https://material.io/resources/color/#!/?view.left=0&view.right=0)
+
+1. [color schemes generator](https://coolors.co/)
+
+1. [Color Palettes for Designers and Artists](https://colorhunt.co/)
+
+1.  [text shadow generator](https://html-css-js.com/css/generator/text-shadow/)
+
+1. [colors-in-ui-design theory](https://uxdesign.cc/all-you-need-to-know-about-colors-in-ui-design-theory-practice-235179712522)
+
+1. [principles-for-color-usage-in-ui](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)
+
+1. [glassmorphism-ui](https://bootcamp.uxdesign.cc/html-css-for-the-new-glassmorphism-ui-trend-of-the-year-2020-97c79b0518d7)
+
+1. [neumorphism-in-ui](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
+
+1. [neumorphism generator](https://neumorphism.io/#e0e0e0)
+
+1. [why do we interface](https://whydoweinterface.com/)
+
+1. [pair programming ](https://www.freecodecamp.org/news/want-to-be-a-developer-you-should-probably-be-pair-programming-2c6ec12c4866/)
+
+1. [change-color-of-png-image-using-css](https://www.geeksforgeeks.org/how-to-change-color-of-png-image-using-css/)
+
+1. [tables](https://html.com/tables/#ixzz6s6397qao)
+
+1. [td-scope-attribute](https://www.geeksforgeeks.org/html-td-scope-attribute/)
+
+1. [nth-child examples](https://css-tricks.com/useful-nth-child-recipies/)
+
+1. [CSS Selectors Cheatsheet](https://gist.github.com/magicznyleszek/809a69dd05e1d5f12d01)
+
+1. [table complete guide - css tricks](https://css-tricks.com/complete-guide-table-element/)
+
+1. [HTML table - mdn](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+
+1. [css and js accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
+
+1. [html forms](https://html.com/forms/)
+
+1. [form input mdn](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+
+1. [Advanced form styling](https://developer.mozilla.org/en-US/docs/Learn/Forms/Advanced_form_styling)
+
+1. [styling form inputs css tricks](https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/)
+
+1. [contact form designs](https://wpforms.com/beautiful-contact-form-designs-you-can-steal/)
+
+1. [add icon to placeholder](https://www.thecodehubs.com/how-to-use-font-awesome-icon-in-placeholder/)
+
+1. [video for animated login form](https://youtu.be/fGtB9VRHQb0)
+
+1. [add a gradient overlay to a background image](https://webdevetc.com/blog/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html/)
+
+1. [pixel ratio phone](https://blogs.perficient.com/2014/12/24/css-pixel-ratio-or-how-big-is-my-phone/)
+
+1. [media queries mdn](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
+
+1. [importance of responsive web](https://www.dotcominfoway.com/blog/importance-of-responsive-web-design/#gref)
