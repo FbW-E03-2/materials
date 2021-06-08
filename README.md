@@ -36,7 +36,9 @@
 
 1. [about forks](https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/)
 
+1. [customize bash/cli/terminal in linux](https://ostechnix.com/how-to-customize-bash-prompt-in-linux/)
 
+1. [customize bash/cli/terminal in MAC](https://www.maketecheasier.com/customize-mac-terminal/)
 
 ## UIB 
 
@@ -318,10 +320,29 @@ course](https://www.internetingishard.com/html-and-css/)
 
 1. [standards for developing consistent, flexible and sustainable HTML and CSS](https://codeguide.co/)
 
-1. []()
+1. [material design](material.io)
 
-1. []()
+1. [Semantic UI](https://semantic-ui.com/)
 
-1. []()
+1. [Material Design for Bootstrap v5 & v4](https://mdbootstrap.com/)
 
-1. []()
+1. [Introduction to Sass for Beginners](https://designmodo.com/introduction-sass/)
+
+1. [The definitive guide to SCSS](https://blog.logrocket.com/the-definitive-guide-to-scss/)
+
+1. [Give your CSS superpowers by learning Sass](https://www.freecodecamp.org/news/give-your-css-superpowers-by-learning-sass/)
+
+1. [Color Hex](https://www.color-hex.com/color/ffdae0)
+
+1. [Typography in ten minutes](https://practicaltypography.com/typography-in-ten-minutes.html)
+
+1. [5 KEYS TO ACCESSIBLE WEB TYPOGRAPHY](https://betterwebtype.com/articles/2019/06/16/5-keys-to-accessible-web-typography/)
+
+1. [15 Best Web Safe Fonts](https://websitesetup.org/web-safe-fonts-html-css/)
+
+1. [A guide to color accessibility in product design](https://www.invisionapp.com/inside-design/color-accessibility-product-design/)
+
+
+1. [A11y intro - web accessibility](https://www.notion.so/A11y-intro-b559b4e344fa47318e417c1ce41e7d2e)
+
+1. [Top Design Resources and Apps Everyone Should Know! video](https://youtu.be/GUOgv4PcHIQ)
